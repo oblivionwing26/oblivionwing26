@@ -107,12 +107,7 @@
 
 </div>
 
----
-
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
----
 
 Credit: [oblivionwing26](https://github.com/oblivionwing26)  
-Last Edited on: 26/01/2025
+Last Edited on: 26/07/2025
 ```
