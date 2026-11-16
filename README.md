@@ -1,113 +1,170 @@
-<div align="center">   
-  <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+<!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
+<div align="center">
 
-<h3 align="center">  
-  Hi, I'm Jorge Carrascosa A.K.A Oblivionwing26  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:7c3aed&text=Jorge%20Carrascosa&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Security%20%C2%B7%20Full-Stack&descAlignY=58&descSize=20&animation=fadeIn" alt="Jorge Carrascosa — Software Engineer" />
 
-<p align="center">  
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student;UCLM%20-%20Spain%20🇪🇸;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20👀;Reach%20out%20if%20you%20need%20help!%20💬&font=Fira%20Code&center=true&width=440&height=45">
-  </a>
+<a href="https://github.com/oblivionwing26">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Software+Engineer+%E2%80%94+UCLM+graduate+%F0%9F%8E%93;I+build+LLM+agents+that+test+real+software;Security+%C3%97+UX%3A+measuring+the+cost+of+every+fix;TypeScript+%C2%B7+Python+%C2%B7+C%2FC%2B%2B+%C2%B7+Java+%C2%B7+Dart" alt="Typing intro" />
+</a>
+
+<p>
+  <a href="mailto:jorgestegos@gmail.com"><img src="https://img.shields.io/badge/Email-jorgestegos%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- TODO: descomenta y pon tu URL de LinkedIn
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  -->
+  <!-- TODO: descomenta y pon la URL de tu portfolio web
+  <a href="https://TU-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  -->
+  <img src="https://img.shields.io/badge/Based%20in-Spain%20%F0%9F%87%AA%F0%9F%87%B8-F59E0B?style=flat-square" alt="Spain" />
+  <img src="https://img.shields.io/badge/Open%20to-opportunities-22C55E?style=flat-square" alt="Open to opportunities" />
 </p>
-
-<p align="center">  
-  <a href="https://github.com/oblivionwing26/" align="center">
-    <img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=oblivionwing26.oblivionwing26">
-  </a>
-</p>
-
----
-
-👨‍💻 As a Software Engineering student at UCLM (Universidad de Castilla-La Mancha), I'm constantly learning and deepening my knowledge in software development and computer science.
-
-- 💬 Ask me about my experience with C++, Python, Java, and web development frameworks
-- 🌱 I'm currently exploring advanced software engineering concepts and AI technologies
-- 🎓 Studying Software Engineering at Universidad de Castilla-La Mancha, Spain
-
-## 🛠 &nbsp;Tech Stack
-
-#### 🔧 Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-#### 🖥️ Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
-#### 📚 Libraries & Game Development
-![Raylib](https://img.shields.io/badge/raylib-%23000000.svg?style=for-the-badge&logo=raylib&logoColor=white)
-
-#### 🔧 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 📊 Profile Statistics 
-
-<div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=oblivionwing26&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)<br>
-
-</div>  
-
-### 💳 Github Profile Summary Card  
-
-<div align=center>  
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oblivionwing26&theme=github_dark)   
-
-</div>  
-
-### ⏱ Streak Stats  
-
-<div align=center>   
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oblivionwing26&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats) 
-
-</div>  
-
-### 📊 Most Used Language 
-
-<div align=center>  
-
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=oblivionwing26&show_icons=true&locale=en&layout=compact&theme=radical)]()     
-
-</div>  
-
-### 🏆 Profile Trophies
-
-<div align=center> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=oblivionwing26&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)  
 
 </div>
 
----
+<!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
 
-### 🔗 &nbsp;Contact Me
+## 👋 About me
+
+I'm a **Software Engineer** (B.Sc. in Software Engineering, *Universidad de Castilla-La Mancha*) who likes building systems that are **measurable, reproducible and honest about their numbers**.
+
+Lately I've been working where **LLM agents, application security and UX** meet: tools in which the model decides *what to try next*, and deterministic code decides *whether it worked*.
+
+```ts
+const jorge = {
+  role:        "Software Engineer",
+  education:   "B.Sc. Software Engineering — UCLM (Spain)",
+  focus:       ["LLM agents", "AppSec / Red & Blue teaming", "Full-stack TypeScript"],
+  principles:  ["Deterministic first, LLM second", "Hexagonal architecture", "Tests or it didn't happen"],
+  alsoLikes:   ["Game engines from scratch", "Mobile apps", "Data bots"],
+  languages:   { spanish: "native", english: "professional" },
+};
+```
+
+<!-- ═══════════════════════════════  FEATURED  ═══════════════════════════════ -->
+
+## 🚀 Featured project
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### 🛡️ [Janus Arena](https://github.com/oblivionwing26/janus-arena)
+
+**A pre-release gate that catches UX-friction regressions *and* security regressions in the same pull request — and measures the UX cost of every security fix.**
+
+- 🧪 **SynthLab** — synthetic user personas drive two variants of a web app in a real browser (Playwright). An LLM picks the next action; friction, success, latency and statistics are computed by code.
+- ⚔️ **WarRoom** — static audit → **Red Team** attacks in an isolated sandbox → **Blue Team** agent patches → fix verified **three independent ways** (PoC dead, tests + regression test green, UX within tolerance).
+- 📜 Output: a **signed dual report** (UX A/B + security) attached to a PR. Janus never merges — a human does.
+- 📈 Found **6 confirmed vulnerabilities** on OWASP Juice Shop with replayable PoCs; showed an account lockout costs real users while a per-account rate limit doesn't.
+
+<p>
+  <a href="https://janus-arena.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-janus--arena.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
+  <a href="https://youtu.be/rH7XLE4Ujks"><img src="https://img.shields.io/badge/3--min%20video-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video" /></a>
+</p>
+
+</td>
+<td width="38%" valign="top">
+
+**Architecture highlights**
+
+- Monorepo · **pnpm + Turborepo**
+- **NestJS on Fastify**, hexagonal (rules enforced in CI with *dependency-cruiser*)
+- **Next.js 16 / React 19** console with attack graph (*React Flow*) and swarm canvas (*PixiJS*)
+- **PostgreSQL + Prisma**, append-only event log (DB trigger blocks updates)
+- **Redis + BullMQ** job queue
+- **Docker** sandboxes behind a socket proxy
+- **Claude API** agents with per-stage budgets
+- Seeded stats: **Wilson intervals, paired bootstrap**
+- Resumable pipeline, signed & verifiable reports
+- **Vitest**, ESLint, Prettier, GitHub Actions CI
+
+</td>
+</tr>
+</table>
+
+## 🧩 More projects
 
 <div align="center">
 
-<a href="mailto:jorgestegos@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://github.com/oblivionwing26/janus-shoplab"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=oblivionwing26&repo=janus-shoplab&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" alt="Janus ShopLab" /></a>
+<a href="https://github.com/oblivionwing26/MazeRay"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=oblivionwing26&repo=MazeRay&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=2" alt="MazeRay" /></a>
 
 </div>
 
+| Project | What it is | Stack |
+|---|---|---|
+| 🛒 **[Janus ShopLab](https://github.com/oblivionwing26/janus-shoplab)** | E-commerce target app with *documented* UX flaws as ground truth, plus opt-in defenses (rate limits, lockouts) to measure what security costs real users. | Next.js · Prisma · PostgreSQL · Zod · Docker · Vitest |
+| 🎮 **[MazeRay](https://github.com/oblivionwing26/MazeRay)** | First-person maze shooter on a **custom raycasting engine**: procedurally generated mazes (modified DFS), z-buffered sprites, enemies with chase AI. | C · raylib · Make |
+| ⏰ **Smart Alarm** | Cross-platform smart alarm mobile app. | Dart · Flutter |
+| 🕒 **Timbra** | Application in active development. | TypeScript |
+| 🏁 **Racing Team Web** | Website for a racing team. | TypeScript |
+| 📊 **Memecoin market crawler** | Bot for market research and prediction on Solana memecoins: scraping, data collection and analysis. | Python |
+| 🧮 **SSDD Calculator** | Distributed-systems coursework: remote calculator service. | Python |
+| 🏗️ **Software Design web app** | Web application built for the *Software Design* course. | Java |
 
-Credit: [oblivionwing26](https://github.com/oblivionwing26)  
-Last Edited on: 26/07/2025
-```
+<!-- ═══════════════════════════════  STACK  ═══════════════════════════════ -->
+
+## 🛠️ Tech stack
+
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,java,dart,html,css,ruby&perline=12" alt="Languages" />
+</td></tr>
+<tr><td><b>Frontend & mobile</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,vite&perline=12" alt="Frontend" />
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,flask,rails,prisma&perline=12" alt="Backend" />
+</td></tr>
+<tr><td><b>Data & infra</b></td><td>
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,vercel,githubactions,linux,ubuntu&perline=12" alt="Infra" />
+</td></tr>
+<tr><td><b>Testing & tooling</b></td><td>
+<img src="https://skillicons.dev/icons?i=vitest,pnpm,git,github,vscode,visualstudio,eclipse,raylib&perline=12" alt="Tooling" />
+</td></tr>
+</table>
+
+<sub>Also: <b>Playwright</b> · <b>Claude API / LLM agents</b> · <b>BullMQ</b> · <b>Zod</b> · <b>Turborepo</b> · <b>React Flow</b> · <b>PixiJS</b> · <b>dependency-cruiser</b> · <b>OWASP</b> testing</sub>
+
+<!-- ═══════════════════════════════  HOW I WORK  ═══════════════════════════════ -->
+
+## 🧠 How I work
+
+- **Deterministic first, LLM second** — models propose; code, oracles and statistics decide.
+- **Architecture you can enforce** — hexagonal layers, checked in CI, not just drawn in a diagram.
+- **Reproducible by default** — event logs, seeded stats, replayable runs, Docker everywhere.
+- **Report the unflattering numbers too** — confidence intervals, not cherry-picked screenshots.
+
+<!-- ═══════════════════════════════  STATS  ═══════════════════════════════ -->
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oblivionwing26&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=oblivionwing26&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=oblivionwing26&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oblivionwing26/oblivionwing26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oblivionwing26/oblivionwing26/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/oblivionwing26/oblivionwing26/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
+
+## 📫 Let's talk
+
+I'm open to **Software Engineer** roles and interesting collaborations — especially around AI agents, application security or full-stack product work.
+The fastest way to reach me is **[jorgestegos@gmail.com](mailto:jorgestegos@gmail.com)**.
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=oblivionwing26&style=flat-square&color=7c3aed&label=profile+views" alt="Profile views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7c3aed,50:1e3a8a,100:0f172a&section=footer" alt="" />
+
+</div>
